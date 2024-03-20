@@ -1,6 +1,6 @@
 👋 Hi, I’m @pandey-tushar
 
-I’m interested in data science, topological data analysis and topological quantum computing. 
+I’m interested in data science, topological data analysis, quantum computing and topological quantum computing. 
 I’m currently learning different data analysis techniques and python visualization on websites. 
 
 📫 Reach me at tusharp@tamu.edu
